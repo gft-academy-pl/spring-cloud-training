@@ -155,11 +155,13 @@ and open in browser port: **8090** => [http://localhost:8090](http://localhost:8
 
 ### Linux or Mac OS
 
+
+
 #### Download source code
 ````
 cd ~/Desktop
-git clone https://github.com/rakk/spring-cloud-training
-git clone https://github.com/rakk/spring-cloud-training-configuration
+git clone https://github.com/gft-academy-pl/spring-cloud-training
+git clone https://github.com/gft-academy-pl/spring-cloud-training-configuration
 ````
 This might take a while...
 
