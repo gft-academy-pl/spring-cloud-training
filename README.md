@@ -2,7 +2,7 @@
 
 This project is used for training of Spring-Cloud training.
 
-Configuration for project is located in [rakk/spring-cloud-training-configuration](https://github.com/rakk/spring-cloud-training-configuration) repository.
+Configuration for project is located in [gft-academy-pl/spring-cloud-training-configuration](https://github.com/gft-academy-pl/spring-cloud-training-configuration) repository.
 
 Table of Contents
 =================
@@ -26,7 +26,7 @@ This project contains spring-boot based services:
   * **routing-service** - routing/proxy server based on zuul server
 * tools:
   * **discovery-service** - discovery service based on Netflix Eureka server
-  * **config-server** - delivers configuration for all services, by default uses [rakk/spring-cloud-training-configuration](https://github.com/rakk/spring-cloud-training-configuration) repository
+  * **config-server** - delivers configuration for all services, by default uses [gft-academy-pl/spring-cloud-training-configuration](https://github.com/gft-academy-pl/spring-cloud-training-configuration) repository
   * **admin-service** - administrative tool, allows us to view logs, change configuration on the fly etc.
   * **tracing-service** - tracing for distributed system
 
@@ -52,8 +52,8 @@ Project can be build by **maven wrapper** so maven installation can be skipped.
 #### Download source code
 ````
 cd %Homepath%\Desktop
-git clone https://github.com/rakk/spring-cloud-training
-git clone https://github.com/rakk/spring-cloud-training-configuration
+git clone https://github.com/gft-academy-pl/spring-cloud-training
+git clone https://github.com/gft-academy-pl/spring-cloud-training-configuration
 ````
 This might take a while...
 
